@@ -1,7 +1,5 @@
 # CoffeeHouse
-
 # Hosted Link:
-
 ## HTML (Hypertext Markup Language) uses a variety of tags to structure web content. These tags provide the basic building blocks for creating web pages. 
 ## Here's a brief description of some of the most commonly used HTML general tags:
 
@@ -51,7 +49,7 @@
 
 - **<option>**: Represents an item within a `<select>` dropdown.
 - 
-## Certainly, here's an explanation of the CSS properties listed:
+## Here's an explanation of the CSS properties listed:
 
 - `color`: Sets the text color.
 
@@ -100,10 +98,11 @@
 - `transform`: Applies 2D or 3D transformations to elements (e.g., scaling, rotating).
   
 - `overflow`: Controls how content that overflows an element is displayed (e.g., hidden, scroll).
+- 
+These CSS properties provide extensive control over the presentation and layout of HTML elements on web pages. 
 
-These CSS properties provide extensive control over the presentation and layout of HTML elements on web pages. Designers and developers use them to create visually appealing and responsive websites.
-
-
--
-
-These explanations should help you understand the purpose and usage of each HTML tag.
+![Screenshot 2023-09-09 131215](https://github.com/divyanshrajpoot9/CoffeeHouse/assets/114856467/348dc922-a55f-4413-afe3-e29492c0c30f)
+![Screenshot 2023-09-09 131231](https://github.com/divyanshrajpoot9/CoffeeHouse/assets/114856467/1d388580-b837-4e75-be7f-3f578f1cc4cb)
+![Screenshot 2023-09-09 131251](https://github.com/divyanshrajpoot9/CoffeeHouse/assets/114856467/35c7eae8-ee05-4503-9a28-61e6d744a303)
+![Screenshot 2023-09-09 131321](https://github.com/divyanshrajpoot9/CoffeeHouse/assets/114856467/39ff2db9-cf8f-4663-8f40-fb0f67ecb9ed)
+![Screenshot 2023-09-09 131336](https://github.com/divyanshrajpoot9/CoffeeHouse/assets/114856467/3630188c-d03a-413d-ac2a-7d6573e04131)
